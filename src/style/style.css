@@ -183,11 +183,11 @@ body {
   margin-bottom: 50px;
 }
 
- .wrap {
+/*Resize the wrap to see the search bar change!*/
+.wrap {
   width: 30%;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  padding-bottom: 350px;
 } 
